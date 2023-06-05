@@ -46,6 +46,7 @@
   <h2>Back End</h2> 
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white" width=140 height=40 />
   <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=Django&logoColor=white" width=140 height=40 />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white" width=140 height=40 />
   
   <h2>Front End</h3>
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white" width=140 height=40 />
@@ -56,10 +57,11 @@
 </div>
 
 <div align="left">
-  <h2>살짝 맛보기</h2>
-  <img src="https://img.shields.io/badge/ReactiveX-B7178C?style=flat&logo=ReactiveX&logoColor=white" />
-  <img src="https://img.shields.io/badge/Unity-FFFFFF?style=flat&logo=Unity&logoColor=black" />
-  
+  <h3>이외의 다른 기술 스택들</h3>
+  <img src="https://img.shields.io/badge/ReactiveX-B7178C?style=flat&logo=ReactiveX&logoColor=white" width=130 height=40 />
+  <img src="https://img.shields.io/badge/Unity-FFFFFF?style=flat&logo=Unity&logoColor=black" width=130 height=40 />
+  <img src="https://img.shields.io/badge/Compose-4285F4?style=flat&logo=Jetpack Compose&logoColor=black" width=170 height=40 />
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=Vue.js&logoColor=black" width=130 height=40 />
 </div>
 
 <hr>
