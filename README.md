@@ -36,23 +36,23 @@
   <h2>기술 스택 🔥</h2>
   
   <h2>OS</h2>
-  <img src="https://img.shields.io/badge/Windows-0078D6?style=flat&logo=Windows&logoColor=white" width=220 height=60 />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=Linux&logoColor=black" width=220 height=60 />
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=flat&logo=Windows&logoColor=white" width=140 height=40 />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=Linux&logoColor=black" width=140 height=40 />
   
   <h2>Programming Launage</h2>
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=Kotlin&logoColor=white" width=140 height=40 />
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white" width=140 height=40 />
   
   <h2>Back End</h2> 
-  <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white" width=220 height=60 />
-  <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=Django&logoColor=white" width=220 height=60 />
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white" width=140 height=40 />
+  <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=Django&logoColor=white" width=140 height=40 />
   
   <h2>Front End</h3>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white" width=220 height=60 />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white" width=140 height=40 />
   
   <h2>Android App Developer</h2>
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=flat&logo=Android&logoColor=white" width=220 height=60 />
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=Flutter&logoColor=white" width=220 height=60 />
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=flat&logo=Android&logoColor=white" width=140 height=40 />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=Flutter&logoColor=white" width=140 height=40 />
 </div>
 
 <div align="left">
