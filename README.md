@@ -14,6 +14,9 @@
 >> <a href="https://hyunho1lee.tistory.com/"><img src="https://img.shields.io/badge/Tistory-000000?style=flat&logo=Tistory&logoColor=white" /></a>
 <hr>
 
+> ### 2023-06-21 두번째 깃허브 계정 생성
+>> <a href="https://github.com/hyunho4621">깃허브 주소입니다.</a>
+
 <div align="left">
   <h2>학력 🏫 </h3>
 </div>
