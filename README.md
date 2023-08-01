@@ -11,8 +11,8 @@
 >> <a href="https://hyunho1lee.tistory.com/"><img src="https://img.shields.io/badge/Tistory-000000?style=flat&logo=Tistory&logoColor=white" /></a>
 <hr>
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=hyunho4532&show_icons=true&theme=tokyonight)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyunho4532&langs_count=10&layout=compact&theme=dark)](https://github.com/hyunho4532)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=hyunho4532&show_icons=true&theme=light)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyunho4532&langs_count=10&layout=compact&theme=light)](https://github.com/hyunho4532)
 
 <div align="left">
   <h2> Education 🏫 </h3>
