@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=3864c3&height=200&section=header&text=Lee%20Hyun%20Ho&fontColor=ffffff&animation=fadeIn&fontSize=90)
 
 <div align="left">
-  <h2>Hello 🖐🖐 , <br>I am Hyunho Lee, a developer born in 2004. 😄😄</h2>
+  <h2>Hello 🖐🖐 , <br>I am developer born in 2004. 😄😄</h2>
 </div>
 
 <br>
@@ -15,25 +15,25 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyunho4532&langs_count=10&layout=compact&theme=dark)](https://github.com/hyunho4532)
 
 <div align="left">
-  <h2>학력 🏫 </h3>
+  <h2> Education 🏫 </h3>
 </div>
 
-> 2021.03 ~ 2023.02 한양공업고등학교 졸업 <br>
-> 2023.03 ~ 2025.02 동양미래대학교 (재직자과정) 재학
+> 2021.03 ~ 2023.02 Hanyang Technical High School <br>
+> 2023.03 ~ 2025.02 Dongyang Mirae University
 
 <hr>
 
 <div align="left">
-  <h2>자격증 📝</h2>
+  <h2>Certification 📝</h2>
 </div>
 
-> 정보처리산업기사<br>
+> 정보처리산업기사 (Industrial Engineer Information Processing)<br>
 > SQLD (8월 시험 일정)
 
 <hr>
 
 <div align="left">
-  <h2>기술 스택 🔥</h2>
+  <h2>Tech Stack 🔥</h2>
   
   <h2>OS</h2>
   <img src="https://img.shields.io/badge/Windows-0078D6?style=flat&logo=Windows&logoColor=white" width=100 height=30 />
@@ -76,7 +76,7 @@
 </div>
 
 <div align="left">
-  <h3>이외의 다른 기술 스택들</h3>
+  <h3>ETC</h3>
   <img src="https://img.shields.io/badge/ReactiveX-B7178C?style=flat&logo=ReactiveX&logoColor=white" width=100 height=30 />
   <img src="https://img.shields.io/badge/Unity-FFFFFF?style=flat&logo=Unity&logoColor=black" width=100 height=30 />
   <img src="https://img.shields.io/badge/Compose-4285F4?style=flat&logo=Jetpack Compose&logoColor=black" width=100 height=30 />
