@@ -1,21 +1,18 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=3864c3&height=200&section=header&text=Lee%20Hyun%20Ho&fontColor=ffffff&animation=fadeIn&fontSize=90)
 
 <div align="left">
-  <h2>안녕하세요. <br>04년생 개발자 이현호입니다. 😄😄</h2>
+  <h2>Hello 🖐🖐 , <br>I am Hyunho Lee, a developer born in 2004. 😄😄</h2>
 </div>
-
-> ### 저는 이런 사람이에요!!
->> 적극적으로 해결해나가고, 성실히 임하는 자세.
 
 <br>
 
-> ### 아래 블로그와 이메일 참고 부탁드려요!!
+> ### Please refer to the blog and email below!!
 >> <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white" />
 >> <a href="https://hyunho1lee.tistory.com/"><img src="https://img.shields.io/badge/Tistory-000000?style=flat&logo=Tistory&logoColor=white" /></a>
 <hr>
 
-> ### 2023-06-21 두번째 깃허브 계정 생성
->> <a href="https://github.com/hyunho4621">깃허브 주소입니다.</a>
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=hyunho4532&show_icons=true&theme=tokyonight)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyunho4532&langs_count=10&layout=compact&theme=dark)](https://github.com/hyunho4532)
 
 <div align="left">
   <h2>학력 🏫 </h3>
@@ -84,8 +81,6 @@
   <img src="https://img.shields.io/badge/Unity-FFFFFF?style=flat&logo=Unity&logoColor=black" width=100 height=30 />
   <img src="https://img.shields.io/badge/Compose-4285F4?style=flat&logo=Jetpack Compose&logoColor=black" width=100 height=30 />
   <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=Vue.js&logoColor=black" width=100 height=30 />
-</div>
-
-
+</div>﻿
 
 <hr>
