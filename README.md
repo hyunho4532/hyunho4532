@@ -6,6 +6,15 @@
 
 <br>
 
+<div align="left">
+  <h2>Thank you for coming in!!</h2>
+  
+</div>
+
+[![Hits](https://hits.sh/github.com/hyunho4532/hits.svg)](https://hits.sh/github.com/hyunho4532/hits/)
+
+<br><br>
+
 > ### Please refer to the blog and email below!!
 >> <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white" />
 >> <a href="https://hyunho1lee.tistory.com/"><img src="https://img.shields.io/badge/Tistory-000000?style=flat&logo=Tistory&logoColor=white" /></a>
