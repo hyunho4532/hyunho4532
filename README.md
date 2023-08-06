@@ -66,6 +66,7 @@
   
   <h2>Front End</h3>
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white" width=100 height=30 />
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=Vue.js&logoColor=black" width=100 height=30 />
   
   <h2>Android App Developer</h2>
   <img src="https://img.shields.io/badge/Android-3DDC84?style=flat&logo=Android&logoColor=white" width=100 height=30 />
@@ -82,6 +83,7 @@
   <h3>지금 이러한 기술 스택을 공부하고 있습니다.</h3>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white" width=130 height=30 />
   <img src="https://img.shields.io/badge/WebPack-8DD6F9?style=flat&logo=WebPack&logoColor=white" width=130 height=30 />
+  <img src="https://img.shields.io/badge/Numpy-013243?style=flat&logo=Numpy&logoColor=white" width=110 height=30 />
 </div>
 
 <div align="left">
@@ -89,7 +91,6 @@
   <img src="https://img.shields.io/badge/ReactiveX-B7178C?style=flat&logo=ReactiveX&logoColor=white" width=100 height=30 />
   <img src="https://img.shields.io/badge/Unity-FFFFFF?style=flat&logo=Unity&logoColor=black" width=100 height=30 />
   <img src="https://img.shields.io/badge/Compose-4285F4?style=flat&logo=Jetpack Compose&logoColor=black" width=100 height=30 />
-  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=Vue.js&logoColor=black" width=100 height=30 />
 </div>﻿
 
 <hr>
