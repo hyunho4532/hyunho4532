@@ -63,6 +63,7 @@
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=Postman&logoColor=white" width=120 height=30 />
   <img src="https://img.shields.io/badge/NGINX-009639?style=flat&logo=NGINX&logoColor=white" width=100 height=30 />
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=Firebase&logoColor=white" width=100 height=30 />
+  <img src="https://img.shields.io/badge/Redis-B71C1C?style=flat&logo=Redis&logoColor=white" width=110 height=30 />
   
   <h2>Front End</h3>
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white" width=100 height=30 />
