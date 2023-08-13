@@ -78,13 +78,16 @@
   <img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=Oracle&logoColor=white" width=100 height=30 />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white" width=100 height=30 />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=PostgreSQL&logoColor=white" width=130 height=30 />
+
+  <h2>Data Science</h2>
+  <img src="https://img.shields.io/badge/Numpy-013243?style=flat&logo=Numpy&logoColor=white" width=110 height=30 />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=Pandas&logoColor=white" width=100 height=30 />
 </div>
 
 <div>
   <h3>지금 이러한 기술 스택을 공부하고 있습니다.</h3>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white" width=130 height=30 />
   <img src="https://img.shields.io/badge/WebPack-8DD6F9?style=flat&logo=WebPack&logoColor=white" width=130 height=30 />
-  <img src="https://img.shields.io/badge/Numpy-013243?style=flat&logo=Numpy&logoColor=white" width=110 height=30 />
   <img src="https://img.shields.io/badge/React Native-868e96?style=flat&logo=React&logoColor=white" width=140 height=30 />
 </div>
 
