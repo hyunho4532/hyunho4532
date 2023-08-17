@@ -36,6 +36,7 @@
   <div>
     <img src="https://img.shields.io/badge/Numpy-013243?style=flat&logo=Numpy&logoColor=white" />
     <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=Pandas&logoColor=white" />
+    <img src="https://img.shields.io/badge/Scikit-Learn-F7931E?style=flat&logo=scikitlearn&logoColor=white" />
   </div>
 
   <br>
