@@ -62,6 +62,8 @@
   <div align="left">
     <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=Vue.js&logoColor=black" />
     <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" />
+    <img src="https://img.shields.io/badge/Amazon EC2-FF9900?style=flat&logo=Amazon EC2&logoColor=white" />
+    <img src="https://img.shields.io/badge/GreenSock-88CE02?style=flat&logo=GreenSock&logoColor=black" />
   </div>
 
 </div>
