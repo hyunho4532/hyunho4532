@@ -66,6 +66,12 @@
     <img src="https://img.shields.io/badge/GreenSock-88CE02?style=flat&logo=GreenSock&logoColor=black" />
   </div>
 
+  <div align="left">
+    <img src="https://img.shields.io/badge/Ionic-3880FF?style=flat&logo=Ionic&logoColor=black" />
+    <img src="https://img.shields.io/badge/Axios-5A29E4?style=flat&logo=Axios&logoColor=white" />
+    <img src="https://img.shields.io/badge/Socket.io-010101?style=flat&logo=Socket.io&logoColor=white" />
+  </div>
+
 </div>
 
 <br>
