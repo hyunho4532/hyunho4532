@@ -3,10 +3,7 @@
 ### 안녕하세요. 반갑습니다.
 
 
-현재 머신러닝에 대해 관심이 생겨 공부하고 있습니다.
-
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=hyunho4532&show_icons=true&theme=light)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyunho4532&langs_count=10&layout=compact&theme=light)](https://github.com/hyunho4532)
+클린 아키텍처 안쓰면, 속이 굉장히 불편해요.
 
 <br>
 
