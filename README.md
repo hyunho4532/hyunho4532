@@ -4,6 +4,7 @@
 
 
 클린 아키텍처 안쓰면, 속이 굉장히 불편해요.
+English Sutdy - Day 2
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyunho4532&show_icons=true&theme=dark)
 
